@@ -31,8 +31,7 @@ enum custom_keycodes {
   BACKLIT,
   RGBRST,
   CODE,//B01
-  MOUSECURSOR,
-  TEST123
+  MOUSECURSOR
 };
 
 
